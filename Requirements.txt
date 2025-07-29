@@ -1,0 +1,22 @@
+# Core data science stack
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+
+# Kaggle ↔ GitHub helper
+kagglehub
+
+# Machine learning & preprocessing
+scikit-learn
+
+# Gradient‑boosting
+xgboost
+
+# Model explanations
+shap
+
+# Statistics
+scipy
